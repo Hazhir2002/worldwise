@@ -1,0 +1,88 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Pompiey",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-07-24T07:02:37.523Z",
+      "notes": "1",
+      "position": {
+        "lat": "44.19795903948531",
+        "lng": "0.21972656250000003"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Fernao Joanes",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-07-24T07:07:39.367Z",
+      "notes": "Not bad",
+      "position": {
+        "lat": "40.463666324587685",
+        "lng": "-7.404785156250001"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Villagaton",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-24T07:10:50.855Z",
+      "notes": "Never been there",
+      "position": {
+        "lat": "42.601619944327965",
+        "lng": "-6.240234375"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Selmana",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2023-10-19T08:07:32.139Z",
+      "notes": "Very Good",
+      "position": {
+        "lat": "33.797408767572485",
+        "lng": "3.9990234375000004"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Tehran",
+      "country": "Iran (Islamic Republic of)",
+      "emoji": "🇮🇷",
+      "date": "2023-10-19T08:08:32.721Z",
+      "notes": "Too much traffic\n",
+      "position": {
+        "lat": "35.64561411152371",
+        "lng": "51.380352973937995"
+      },
+      "id": 98443202
+    }
+  ]
+}
